@@ -6,4 +6,7 @@
 //  Copyright © 2017 GSMA. All rights reserved.
 //
 
+
+#include <ifaddrs.h>
 #import <Foundation/Foundation.h>
+
